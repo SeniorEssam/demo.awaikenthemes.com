@@ -1,0 +1,992 @@
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/404.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\404.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/about.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\about.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/blog-single.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\blog-single.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/blog.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\blog.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/contact.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\contact.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/all.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\all.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/animate.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\animate.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/bootstrap.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/custom.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\custom.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/magnific-popup.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/slicknav.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/css/swiper-bundle.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/faq.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\faq.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/about-us-1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\about-us-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/about-us-2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\about-us-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/about-us-3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\about-us-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/author-6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\author-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/bg-img.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\bg-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/crypto-calculator-bg.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\crypto-calculator-bg.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/download-app-item-bg.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\download-app-item-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/favicon.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\favicon.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/footer-logo.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/hero-2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/hero.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-address.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-address.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-bitcoin-exchange.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-bitcoin-exchange.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-checkbox.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-contact-info.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-contact-info.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-double-quote.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-double-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-double-quotes-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-double-quotes-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-double-quotes-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-double-quotes-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-down-arrow.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-executive-partners-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-executive-partners-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-executive-partners-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-executive-partners-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-executive-partners-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-executive-partners-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-executive-partners-4.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-executive-partners-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-executive-partners-5.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-executive-partners-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-hours-operation.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-hours-operation.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-how-it-work-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-how-it-work-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-how-it-work-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-how-it-work-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-how-it-work-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-how-it-work-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-left.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-left.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-mission.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-mission.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-benefits-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-benefits-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-benefits-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-benefits-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-benefits-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-benefits-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-benefits-4.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-benefits-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-4.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-5.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-our-services-6.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-our-services-6.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-right.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-right.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-stay-info.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-stay-info.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-10.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-10.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-11.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-11.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-12.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-12.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-13.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-13.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-14.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-14.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-15.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-15.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-16.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-16.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-17.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-17.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-18.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-18.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-19.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-19.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-20.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-20.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-21.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-21.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-22.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-22.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-23.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-23.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-24.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-24.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-4.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-5.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-6.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-6.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-7.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-7.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-8.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-8.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-ticker-9.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-ticker-9.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-vision.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-vision.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-why-choose-us-1.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-why-choose-us-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-why-choose-us-2.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-why-choose-us-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/icon-why-choose-us-3.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\icon-why-choose-us-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/img-not-found.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\img-not-found.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/loader.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/logo.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/mobile-img.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\mobile-img.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/play.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/post-6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/small-logo.svg
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\small-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-1.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-1.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-2.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-2.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-3.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-3.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-4.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-4.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-5.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-5.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-6.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-6.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-7.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-7.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/team-8.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\team-8.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/images/video-bg.png
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\images\video-bg.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/index-slider.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\index-slider.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/index-video.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\index-video.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/index.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\index.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/bootstrap.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/function.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\function.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/gsap.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery-3.7.1.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery.counterup.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery.magnific-popup.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery.slicknav.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/jquery.waypoints.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/magiccursor.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\magiccursor.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/parallaxie.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/ScrollTrigger.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/SmoothScroll.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/splitType.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\splitType.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/swiper-bundle.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/validator.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/js/wow.js
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\js\wow.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/services.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\services.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/team.html
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\team.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-brands-400.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-brands-400.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-regular-400.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-regular-400.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-solid-900.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-solid-900.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/quivox/html/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\html-preview\quivox\html\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..1000&display=swap
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\essam\Desktop\siteTracker\demo.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
